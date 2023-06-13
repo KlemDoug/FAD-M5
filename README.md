@@ -5,23 +5,38 @@ Este repositório (FAD-M5) contém os arquivos utilizados para construção dos 
 ---
 ## :pencil2: Contexto ##
 
-> Uma determinada loja deseja produzir relatórios semanais com ganhos e despesas. O gerente da loja te contratou para gerar um relatório de uma semana para mostrar ao dono da loja como a análise dos dados pode ser útil para eles. Para isso, ele te enviou uma tabela de exemplo (está presente no arquivo.py) das despesas de uma semana. Além disso, ele informou que os ganhos não estão nessa planilha, mas que ele possui a seguinte lista: 2200, 2420.50, 3391, 5322, 4898.50, 4200, 3893 respectivos aos dias da semana. Ele te deixou bem livre para incluir no relatório as estatísticas que desejar, mas o relatório deve conter dados referentes à soma, média e lucros em cima dos ganhos e das despesas registrados.
+> Você é o Chefe de Gabinete (CG) do Chief Marketing Officer (CMO) de uma grande empresa. Seu chefe, o CMO, pediu que trabalhasse com seu Parceiro de Negócios de Recursos Humanos (HRBP) para entender o que está causando o atrito – pessoas deixando a empresa – em toda a organização de marketing e apresentar suas descobertas. Seu HRBP analisa os dados e envia por e-mail a visualização abaixo:
+
+<div align="center">
+  
+![image](https://github.com/KlemDoug/FAD-M5/assets/120439075/d6bc48bb-4a14-4a01-b511-da56aa0de932)
+
+</div>
+
+> Partindo disso e tendo em mãos, também, o arquivo .xlsx do *dataset*, sua missão é explicar e aprimorar esses dados, dissertando sobre cada etapa do trabalho com as ferramentas de visualização adequadas.
+
+---
+## 🎥 Prévia do Storyboard ##
+
 ---
 ## :open_file_folder: Arquivos ##
 
-* **Projeto Individual 1 - Módulo 4.py**: arquivo contendo o código para geração do relatório, explicações das etapas e *insights* finais em cima dos dados trabalhados;
+* **[M5]_Projeto_Individual_1.ipynb**: arquivo contendo o relatório em si, seu contexto, informações fornecidas para a análise proposta e respostas às indagações feitas no escopo do projeto;
+* **[SE] [FONTE] [Dados SENAC] [M5] Projeto Individual.xlsx**: dataset original fornecido internamente;
+* **[PT-BR] [SE] [FONTE] [Dados SENAC] [M5] Projeto Individual.xlsx**: dataset traduzido a partir do arquivo acima;
+* **arquivotableau**: arquivo contendo os gráficos para diferentes visualizações dos dados em foco e um storyboard alinhando todos eles;
 * **README.md**: arquivo que abriga uma breve descrição do projeto com seu título, funcionalidades e detalhamentos de acesso.
 ---
 ## :computer: Implantação ##
 
-O projeto para operar a geração do relatório na sua máquina local pode também ser acessado por [este link](https://colab.research.google.com/drive/1mFGP0FHfaQgOELY90s0pBHNfVIHPGyp-?usp=sharing).
+> O relatório também pode ser acessado na sua máquina local por [este link](https://colab.research.google.com/drive/15LLNePHETAVGi31NFuxLWjZkSnomvYt2?usp=sharing). O dataset necessário foi disponibilizado internamente e está contido no repositório desse projeto. Estão disponíveis a versões original (em inglês) e traduzida (carregada para esse relatório). Se você utiliza o Google Colab, LEMBRE-SE de inserir esse dataset pelo diretório raiz da maneira correta previamente. Em caso de edições posteriores, o arquivo poderá se requisitado novamente pelo colab! Portanto, atenção a esse detalhe. No caso de você utilizar o ambiente Jupyter de outra maneira, tenha certeza de que ajustou o diretório para o caminho onde o dataset está salvo.
 
 ---
 ## :construction: Construção ##
 
 * [Google Colab](https://colab.research.google.com/) - Plataforma Google Colaboratory + IDE Jupyter Notebook;
 * [Pandas](https://pandas.pydata.org/) - Biblioteca Pandas;
-* [Python](https://www.python.org/) - Linguagem Python.
+* [Tableau](https://www.tableau.com/) - Ferramenta Tableau para Análise de Negócios. 
 
 ---
 ## :busts_in_silhouette: Autoria ##
