@@ -29,7 +29,7 @@ Este repositório (FAD-M5) contém os arquivos utilizados para construção dos 
 ---
 ## :computer: Implantação ##
 
-> O relatório também pode ser acessado na sua máquina local por [este link](https://colab.research.google.com/drive/15LLNePHETAVGi31NFuxLWjZkSnomvYt2?usp=sharing). O dataset necessário foi disponibilizado internamente e está contido no repositório desse projeto. Estão disponíveis a versões original (em inglês) e traduzida (carregada para esse relatório). Se você utiliza o Google Colab, LEMBRE-SE de inserir esse dataset pelo diretório raiz da maneira correta previamente. Em caso de edições posteriores, o arquivo poderá se requisitado novamente pelo colab! Portanto, atenção a esse detalhe. No caso de você utilizar o ambiente Jupyter de outra maneira, tenha certeza de que ajustou o diretório para o caminho onde o dataset está salvo.
+> O relatório também pode ser acessado na sua máquina local por [este link](https://colab.research.google.com/drive/15LLNePHETAVGi31NFuxLWjZkSnomvYt2?usp=sharing). O dataset necessário foi disponibilizado internamente e está contido no repositório desse projeto. Estão disponíveis as versões original (em inglês) e traduzida (carregada para esse relatório). Se você utiliza o Google Colab, LEMBRE-SE de inserir esse dataset pelo diretório raiz da maneira correta previamente. Em caso de edições posteriores, o arquivo poderá se requisitado novamente pelo colab! Portanto, atenção a esse detalhe. No caso de você utilizar o ambiente Jupyter de outra maneira, tenha certeza de que ajustou o diretório para o caminho onde o dataset está salvo.
 
 ---
 ## :construction: Construção ##
