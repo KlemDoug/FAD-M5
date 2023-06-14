@@ -18,6 +18,11 @@ Este repositório (FAD-M5) contém os arquivos utilizados para construção dos 
 ---
 ## 🎥 Prévia do Storyboard ##
 
+![image](https://github.com/KlemDoug/FAD-M5/assets/120439075/01342123-d12c-4dfe-9daf-cdbd5a25faf9)
+![image](https://github.com/KlemDoug/FAD-M5/assets/120439075/33f0b6b6-1627-4014-990f-9fb20a6826dd)
+![image](https://github.com/KlemDoug/FAD-M5/assets/120439075/897284d2-833a-47d9-a7e1-1dae37597122)
+![image](https://github.com/KlemDoug/FAD-M5/assets/120439075/6a1c61e4-6222-4e19-a865-357a695aa494)
+
 ---
 ## :open_file_folder: Arquivos ##
 
