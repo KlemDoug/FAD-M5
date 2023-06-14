@@ -29,7 +29,8 @@ Este repositório (FAD-M5) contém os arquivos utilizados para construção dos 
 * **[M5]_Projeto_Individual_1.ipynb**: arquivo contendo o relatório em si, seu contexto, informações fornecidas para a análise proposta e respostas às indagações feitas no escopo do projeto;
 * **[SE] [FONTE] [Dados SENAC] [M5] Projeto Individual.xlsx**: dataset original fornecido internamente;
 * **[PT-BR] [SE] [FONTE] [Dados SENAC] [M5] Projeto Individual.xlsx**: dataset traduzido a partir do arquivo acima;
-* **arquivotableau**: arquivo contendo os gráficos para diferentes visualizações dos dados em foco e um storyboard alinhando todos eles;
+* **Projeto Individual 1.twbx**: arquivo contendo os gráficos para diferentes visualizações dos dados em foco e um storyboard alinhando todos eles;
+* **Storyboard.pdf**: arquivo somente para leitura da etapa final extraído do documento acima;
 * **README.md**: arquivo que abriga uma breve descrição do projeto com seu título, funcionalidades e detalhamentos de acesso.
 ---
 ## :computer: Implantação ##
